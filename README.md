@@ -41,3 +41,24 @@ dictionaries are unordered collections of unique values stored in (Key-Value) pa
 to represent boolean values (True and False) we use the bool data type.
 ### 10.range: 
 range() used to generate a sequence of numbers from a start number.
+
+## Dynamic Typing:
+In python, variables are the reserved memory locations to store values. Python is a dynamically typed language which is not required to mention the type of variable while declaring. It performs the type checking at run time.
+
+## Static Typing: 
+In statically typed programming languages which is required to mention the type of variable while declaring. It performs the type checking at compile time.
+
+# Operator:
+
+## Arithmatic Operator:
+### 1.Addition(+): 
+addition operation use to add two or more numbers. 
+### 2. Subtraction(-):
+subtraction operation use to subtract two or more numbers. 
+### 3. Multiplication(*
+
+### 4. Division(/)
+### 5. Floor division(//)
+### 6. Modulus(%)
+### 7. Exponent(**)
+
