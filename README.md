@@ -55,7 +55,7 @@ In statically typed programming languages which is required to mention the type 
 addition operation use to add two or more numbers. 
 ### 2. Subtraction(-):
 subtraction operation use to subtract two or more numbers. 
-### 3. Multiplication(*
+### 3. Multiplication(*):
 
 ### 4. Division(/)
 ### 5. Floor division(//)
