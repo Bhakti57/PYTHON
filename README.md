@@ -1,4 +1,4 @@
-# PYTHON 
+## PYTHON 
 
 What is python?
 Python is interpreted, object-oriented, high level and dynamic typing language.
@@ -17,7 +17,7 @@ comments : comments are nothing but the sentence that the python interpreter ign
 indentation:Indentation in Python refers to the (spaces and tabs) that are used at the beginning of a statement or a code we write. by using indentation our code starts looking well organised and more readable.
 
 DATATYPE: 
-1.integer: 
+1.integer: integer value means number without decimal.
 2.float: float value means number with decimal point.
 3.complex: complex is number which contain real and imaginary component represented as a+bj.
 4.string: sequence of character.
