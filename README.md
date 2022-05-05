@@ -50,6 +50,7 @@ In statically typed programming languages which is required to mention the type 
 
 # Operator:
 
+
 ## Arithmatic Operator:
 ### 1.Addition(+):  
 ### 2. Subtraction(-):
@@ -62,6 +63,7 @@ Modulus(The remainder of the division)
 ### 7. Exponent(**):
 power of number.
 
+
 ## Relational operator:
 ### 1.Greater than: 
 ### 2. Less than
@@ -70,9 +72,11 @@ power of number.
 ### 5. Greater than equal to (>=)
 ### 6. less than equal to (<=)
 
+
 ## Identity operator :
 ### 1. is operator
 ### 2. is not operator 
+
 
 ## Assignment operator:
 ### 1. Assign (=)
@@ -84,6 +88,7 @@ power of number.
 ### 7. Modulus and assign(%=)
 ### 8. Exponent and assign(**=)
 
+
 ## Logical opertor :
 ### 1. and operator: 
 true if both true, Logical and always returns the second value
@@ -92,9 +97,11 @@ true if one is true, Logical and always returns the second value
 ### 3. not operator:
 True if the expression is false.  Logical not always return False for nonzero value.
 
+
 ## Membership Operator: 
 ### 1. in operator:
 ### 2. not in operator
+
 
 ## Bitwise operator
 ### 1. & Bitwise and
