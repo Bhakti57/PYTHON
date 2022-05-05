@@ -51,14 +51,56 @@ In statically typed programming languages which is required to mention the type 
 # Operator:
 
 ## Arithmatic Operator:
-### 1.Addition(+): 
-addition operation use to add two or more numbers. 
+### 1.Addition(+):  
 ### 2. Subtraction(-):
-subtraction operation use to subtract two or more numbers. 
-### 3. Multiplication(*):
-
+### 3.multiplication():
 ### 4. Division(/)
-### 5. Floor division(//)
-### 6. Modulus(%)
-### 7. Exponent(**)
+### 5. Floor division(//): 
+floor division gives answer without decimal point.
+### 6. Modulus(%):
+Modulus(The remainder of the division)
+### 7. Exponent(**):
+power of number.
+
+## Relational operator:
+### 1.Greater than: 
+### 2. Less than
+### 3. Equal to
+### 4. Not equal to 
+### 5. Greater than equal to (>=)
+### 6. less than equal to (<=)
+
+## Identity operator :
+### 1. is operator
+### 2. is not operator 
+
+## Assignment operator:
+### 1. Assign (=)
+### 2. Add and assign(+=)
+### 3. Subtract and assign(-=)
+### 4. Multiply and assign()
+### 5. Divide and assign(/=)
+### 6. Floor divide and assign(//=)
+### 7. Modulus and assign(%=)
+### 8. Exponent and assign(**=)
+
+## Logical opertor :
+### 1. and operator: 
+true if both true, Logical and always returns the second value
+### 2. or operator: 
+true if one is true, Logical and always returns the second value
+### 3. not operator:
+True if the expression is false.  Logical not always return False for nonzero value.
+
+## Membership Operator: 
+### 1. in operator:
+### 2. not in operator
+
+## Bitwise operator
+### 1. & Bitwise and
+### 2. OR
+### 3. XOR 
+
+
+
 
