@@ -108,6 +108,13 @@ True if the expression is false.  Logical not always return False for nonzero va
 ### 2. OR
 ### 3. XOR 
 
+## String
+### String is a sequence of character. Strings in python are surrounded by either single quotation marks, or double quotation marks. In Python, string is an immutable sequence data type.
 
+### Multi-line strings must be embed in triple quotes.
+### String Functions lower()
+#### upper()
+#### title()
+#### capitalize()
 
 
