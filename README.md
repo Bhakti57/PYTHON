@@ -117,4 +117,8 @@ True if the expression is false.  Logical not always return False for nonzero va
 #### title()
 #### capitalize()
 
-
+## Numeric Type:
+### The numeric data in Python is generally in three formats namely Integer, Float, and Complex.
+### We can create an integer variable using the two ways:
+#### 1. Directly assigning an integer value to a variable
+#### 2. Using a int() class.
